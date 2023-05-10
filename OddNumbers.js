@@ -13,3 +13,9 @@ function oddSquareSum(topNumber){
     return sumResult
 }
 console.log("sum result: ", oddSquareSum(44))
+/*outputs 
+comparation sum result 1
+comparation sum result 10
+comparation sum result 35
+comparation sum result 84
+sum result:  35*/
